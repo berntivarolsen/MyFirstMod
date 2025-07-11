@@ -5,16 +5,28 @@
       "identifier": "otter_first:my_otter",
       "is_spawnable": true,
       "is_summonable": true,
-      "is_experimental": false,
-      "materials": { "default": "entity_alphatest" },
-      "textures": { "default": "textures/entity/otter_first" },
-      "geometry": { "default": "geometry.otter_first" },
-      "render_controllers": [ "controller.render.otter_first" ]
+      "is_experimental": false
     },
     "components": {
       "minecraft:health": { "value": 20 },
       "minecraft:movement": { "value": 0.1 }
     }
+  },
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "otter_first:my_otter",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/otter_first"
+      },
+      "geometry": {
+        "default": "geometry.otter_first"
+      },
+      "render_controllers": [
+        "controller.render.otter_first"
+      ]
+    }
   }
 }
-
