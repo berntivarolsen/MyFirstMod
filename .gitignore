@@ -1,0 +1,14 @@
+.vs/
+logs/
+*.exe
+*.wlist
+*.old
+*.html
+*.txt
+server.properties
+server.properties.old
+config/
+definitions/
+resource_packs/
+behavior_packs/
+world_templates/
