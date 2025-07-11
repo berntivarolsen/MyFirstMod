@@ -1,0 +1,16 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "otter_first",
+    "uuid": "be2172da-9bc8-4107-bc4c-5fc6a09d058f", 
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "110340a0-d124-49b3-82cb-c2844c1e5997",
+      "version": [1, 0, 0]
+    }
+  ]
+}
